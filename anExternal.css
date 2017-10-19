@@ -1,0 +1,76 @@
+#Header {
+    border: solid 8px black;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+
+#LeftNav {
+    border: solid 8px black; 
+    width: 20%;
+    float: right;
+    text-align: center;
+    padding-bottom: 8px;
+    
+}
+
+#rcorners1 {
+    border-radius: 25px;
+    background: #73AD21;
+    padding: 20px; 
+    width: 200px;
+    height: 150px
+}
+
+#Content {
+    border: solid 8px black;
+    width: 700px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    padding: 15px;
+}
+
+
+#Footer {
+
+    border: solid 8px black; 
+    text-align: center;
+    
+}
+
+
+img {
+    max-width: 75%;
+    height: auto;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: none;
+}
+
+#Header h1 {
+    font-size: 60px;
+    font-family: "Passion One";
+    color: #FFBC00;
+    font-weight: bold;
+}
+
+P {
+    color: white;
+    font-weight: bold;
+}
+
+body {
+    background-color: blue;
+}
+
+a {
+    color: white;
+    font-weight: bold;
+    font-size: 24px;
+}
